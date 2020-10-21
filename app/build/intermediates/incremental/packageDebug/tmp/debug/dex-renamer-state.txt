@@ -1,0 +1,7 @@
+#Wed Oct 21 16:03:16 SGT 2020
+base.0=D\:\\Android__Demo\\ScreenRecorder\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Android__Demo\\ScreenRecorder\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
