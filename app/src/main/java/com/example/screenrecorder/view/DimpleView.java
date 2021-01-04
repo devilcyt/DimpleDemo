@@ -86,7 +86,6 @@ public class DimpleView extends View {
             canvas.drawCircle(particleList.get(index).x, particleList.get(index).y,
                     particleList.get(index).radius, mPaint);
             index++;
-            //Log.i("swq", "x,y = " + particleList.get(index).x + ", " + particleList.get(index).y);
         }
     }
 
@@ -125,7 +124,6 @@ public class DimpleView extends View {
                     speed,
                     angle,
                     maxOffset));
-            Log.i("swq", "pos[0]= " + pos[0] + ", angle = " + angle);
             count++;
         }
         // 启动粒子动画
@@ -157,7 +155,6 @@ public class DimpleView extends View {
                 particleList.get(i).y = mCenterY - temp3;
             }
             particleList.get(i).offSet += particleList.get(i).speed;
-            Log.i("swq", "y= " + particleList.get(i).y);
             i++;
         }
     }

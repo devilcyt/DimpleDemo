@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Android__Demo\\ScreenRecorder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "D:\\Swq_Samples\\MyGithubRepo\\DimpleDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hyf92\\.gradle\\caches\\transforms-2\\files-2.1\\d776e52f087aabc381b0b4907fc988e8\\material-1.2.0\\res\\values-large-v4\\values-large-v4.xml",
